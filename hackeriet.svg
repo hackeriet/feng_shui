@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.013245371"
-     inkscape:cx="10777.742"
+     inkscape:cx="-509.22006"
      inkscape:cy="24445.954"
      inkscape:document-units="m"
      inkscape:current-layer="layer1"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -134,8 +134,8 @@
       <rect
          y="-866.16779"
          x="20315.758"
-         height="8858.2676"
-         width="832.67725"
+         height="7725.7964"
+         width="832.67773"
          id="rect8103-3-6"
          style="fill:none;stroke:#000000;stroke-width:177.1653595;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
@@ -145,21 +145,13 @@
       <g
          transform="translate(1697.0563,-23263.813)"
          id="g21770">
-        <rect
+        <path
            style="fill:none;stroke:#000000;stroke-width:177.1653595;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 29136.721,12701.742 7724.409,0 0,2550.673 -5209.367,0.04 20.319,3472.911 -2535.361,0 z"
            id="rect21744"
-           width="7724.4097"
-           height="6023.6221"
-           x="29136.721"
-           y="12701.742" />
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccc" />
       </g>
-      <rect
-         y="-8935.7236"
-         x="32886.387"
-         height="4454.7729"
-         width="5586.1436"
-         id="rect21762"
-         style="fill:none;stroke:#000000;stroke-width:177.1653595;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <rect
        style="fill:none;stroke:#000000;stroke-width:177.1653595;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -194,25 +186,28 @@
     <g
        id="miks"
        transform="translate(63801.168,-28731.263)">
-      <rect
-         y="6691.627"
-         x="-23751.256"
-         height="1842.5197"
-         width="1913.3859"
-         id="rect4231"
-         style="fill:none;stroke:#000000;stroke-width:177.1653595;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <flowRoot
-         transform="matrix(14.488396,0,0,24.574198,314948.06,-173613.35)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot4233"
-         xml:space="preserve"><flowRegion
-           id="flowRegion4235"><rect
-             y="7355.0698"
-             x="-23353.189"
-             height="530.75433"
-             width="796.13147"
-             id="rect4237" /></flowRegion><flowPara
-           id="flowPara4239">miks</flowPara></flowRoot>    </g>
+      <g
+         id="g8145">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:177.1653595;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4231"
+           width="1913.3859"
+           height="1842.5197"
+           x="-23751.256"
+           y="6691.627" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4233"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="matrix(14.488396,0,0,24.574198,314948.06,-173613.35)"><flowRegion
+             id="flowRegion4235"><rect
+               id="rect4237"
+               width="796.13147"
+               height="530.75433"
+               x="-23353.189"
+               y="7355.0698" /></flowRegion><flowPara
+             id="flowPara4239">miks</flowPara></flowRoot>      </g>
+    </g>
     <g
        transform="translate(19943.229,-29442.543)"
        id="kjol">
@@ -433,7 +428,7 @@
            height="6794.8267"
            x="-17364.557"
            y="16077.514" /></flowRegion><flowPara
-         id="flowPara21995"></flowPara></flowRoot>    <g
+         id="flowPara21995" /></flowRoot>    <g
        transform="matrix(0,-1,1,0,51476.243,-1680.2817)"
        id="g22002-7">
       <rect
