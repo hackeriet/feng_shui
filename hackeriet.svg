@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
+   width="618cm"
+   height="1237cm"
+   viewBox="0 0 21897.638 43830.71"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="hrui.svg"
+   sodipodi:docname="hackeriet.svg"
    inkscape:export-filename="/home/krav/hrui.svg.png"
    inkscape:export-xdpi="0.95999902"
    inkscape:export-ydpi="0.95999902">
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.015072887"
-     inkscape:cx="-303.52372"
-     inkscape:cy="-21106.771"
+     inkscape:cx="9555.5888"
+     inkscape:cy="27074.279"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,7 +39,12 @@
      inkscape:window-height="882"
      inkscape:window-x="0"
      inkscape:window-y="16"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     units="m"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -48,13 +53,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-125.70304,-243.77953)">
     <rect
        style="fill:none;stroke-width:177.1653595;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4161"
@@ -63,20 +70,20 @@
        x="-24945.453"
        y="16178.86" />
     <g
-       id="g4171">
+       id="humla">
       <rect
          y="332.36221"
          x="214.28572"
          height="43653.543"
          width="21720.473"
-         id="rect3338"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:177.16535433;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+         id="huml"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:177.1653595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
-         y="36476.211"
-         x="203.03294"
+         y="36474.098"
+         x="214.28474"
          height="2657.4802"
          width="1275.5906"
-         id="rect4163"
+         id="stolpe"
          style="fill:none;stroke:#000000;stroke-width:177.1653595;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
          y="43645.398"
@@ -94,7 +101,7 @@
          style="fill:none;stroke:#000000;stroke-width:177.1653595;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       id="g4195"
+       id="scene"
        transform="translate(-1658.6073,34631.719)">
       <rect
          y="654.29657"
@@ -104,28 +111,6 @@
          id="rect4177"
          style="fill:none;stroke:#000000;stroke-width:177.1653595;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
-         sodipodi:linespacing="125%"
-         id="text4179"
-         y="5497.4297"
-         x="9752.6104"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="5497.4297"
-           x="9752.6104"
-           id="tspan4181"
-           sodipodi:role="line">Sc</tspan></text>
-      <flowRoot
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot4183"
-         xml:space="preserve"><flowRegion
-           id="flowRegion4185"><rect
-             style="letter-spacing:0px"
-             y="2910.0024"
-             x="10084.332"
-             height="3449.9031"
-             width="4909.4775"
-             id="rect4187" /></flowRegion><flowPara
-           id="flowPara4189">s</flowPara></flowRoot>      <text
          transform="scale(0.81455342,1.2276666)"
          sodipodi:linespacing="125%"
          id="text4191"
@@ -140,8 +125,8 @@
            sodipodi:role="line">scene</tspan></text>
     </g>
     <g
-       id="g4212"
-       transform="translate(17116.828,23684.912)">
+       id="brus"
+       transform="translate(17198.423,23682.912)">
       <rect
          y="10207.874"
          x="-16984.139"
@@ -163,7 +148,7 @@
            sodipodi:role="line">brus</tspan></text>
     </g>
     <g
-       id="g4225"
+       id="bar"
        transform="matrix(0,-1,1,0,-7043.8856,-10933.417)">
       <rect
          y="19960.484"
@@ -193,7 +178,7 @@
            sodipodi:role="line">bar</tspan></text>
     </g>
     <g
-       id="g4248"
+       id="miks"
        transform="translate(43787.232,2388.3937)">
       <rect
          y="6691.627"
@@ -214,24 +199,27 @@
              width="796.13147"
              id="rect4237" /></flowRegion><flowPara
            id="flowPara4239">miks</flowPara></flowRoot>    </g>
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:161.39901733;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4206-6"
-       width="2190.7493"
-       height="2230.7041"
-       x="19637.217"
-       y="401.42035" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:738.68139648px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="23833.102"
-       y="1641.1064"
-       id="text4208-7"
-       sodipodi:linespacing="125%"
-       transform="scale(0.85318299,1.1720815)"><tspan
-         sodipodi:role="line"
-         id="tspan4210-5"
+    <g
+       id="kjol">
+      <rect
+         y="401.42035"
+         x="19637.217"
+         height="2230.7041"
+         width="2190.7493"
+         id="rect4206-6"
+         style="fill:none;stroke:#000000;stroke-width:161.39901733;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="scale(0.85318299,1.1720815)"
+         sodipodi:linespacing="125%"
+         id="text4208-7"
+         y="1641.1064"
          x="23833.102"
-         y="1641.1064">kjøl</tspan></text>
+         style="font-style:normal;font-weight:normal;font-size:738.68139648px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1641.1064"
+           x="23833.102"
+           id="tspan4210-5"
+           sodipodi:role="line">kjøl</tspan></text>
+    </g>
   </g>
 </svg>
